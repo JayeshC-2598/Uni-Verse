@@ -1,2 +1,2 @@
 # Uni-Verse
-A project to remove a barrier between the College Community and the Global Community.
+Bridging the gap between Social Media and College Management for Enhanced Student Engagement
